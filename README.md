@@ -6,7 +6,6 @@ Hello there!
 ```  
 
 ```
-
 v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v  
 * 🏫 UBB Cluj-Napoca 2nd year student  
 * 🧠 Main Interests: Deep Learning, Audio Classification  
@@ -14,5 +13,4 @@ v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v
 * 💾 IDEs: JetBrains, Visual Studio, Vim  
 * 🎸 Hobbies: Guitar, Bass  
 ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^  
-
 ```
