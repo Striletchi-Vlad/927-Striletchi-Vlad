@@ -1,9 +1,11 @@
 
-<img align="left" src="assets/castle.gif" width="320" />  
-
 ```
 Hello there!  
 ```  
+
+<img align="left" src="assets/castle.gif" width="320" />  
+
+
 
 ```
 v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v  
