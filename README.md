@@ -1,6 +1,6 @@
 
 
-<img align="left" src="assets/castle.gif" width="170" height="170" />  
+<img align="left" src="assets/castle.gif" width="200" height="200" />  
 
 ```
 v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v  
