@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/1jps-castlevania-2zozesWYmwaC0n3Nzz" width="100"/>
+</div>
+
+
 
 <!--
 **927-Striletchi-Vlad/927-Striletchi-Vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
