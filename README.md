@@ -1,6 +1,5 @@
-```
+
 <img align="left" src="assets/castle.gif" width="320" />
-```
 
 ```
 - 🔭 I’m currently working on ...
