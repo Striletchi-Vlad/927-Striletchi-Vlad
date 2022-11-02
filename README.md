@@ -1,6 +1,6 @@
 
 
-<img align="left" src="assets/castle.gif" width="120" />  
+<img align="left" src="assets/castle.gif" width="200" />  
 
 
 
