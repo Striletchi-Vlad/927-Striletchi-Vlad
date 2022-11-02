@@ -1,16 +1,5 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="assets/castle.gif" width="100"/>
-</div>
 
 <img align="left" src="assets/castle.gif" width="320" />
-
-
-
-<!--
-**927-Striletchi-Vlad/927-Striletchi-Vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
