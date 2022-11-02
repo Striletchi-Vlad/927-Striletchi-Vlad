@@ -3,6 +3,8 @@
   <img src="assets/castle.gif" width="100"/>
 </div>
 
+<img align="left" src="assets/castle.gif" width="320" />
+
 
 
 <!--
