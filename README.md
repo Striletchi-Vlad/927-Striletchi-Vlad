@@ -1,9 +1,6 @@
 
-```
-Hello there!  
-```  
 
-<img align="left" src="assets/castle.gif" width="320" />  
+<img align="left" src="assets/castle.gif" width="100" />  
 
 
 
