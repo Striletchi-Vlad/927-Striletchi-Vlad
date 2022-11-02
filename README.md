@@ -2,7 +2,8 @@
 <img align="left" src="assets/castle.gif" width="320" />
 ```
 # Hello there!  
-```
+```  
+
 ```
 <============================================>  
 * 🏫 UBB Cluj-Napoca 2nd year student  
