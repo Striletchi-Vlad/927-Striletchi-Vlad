@@ -4,7 +4,7 @@
 
 ```
 v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v  
-* 🏫 UBB Cluj-Napoca 2nd year student  
+* 🏫 UBB Cluj-Napoca 3rd year student  
 * 🧠 Main Interests: Deep Learning, Audio Classification  
 * 💻 Main languages: Python, C/C++  
 * 💾 IDEs: Vim, Visual Studio, JetBrains 
